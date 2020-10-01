@@ -71,7 +71,7 @@ func Read(f interface{}) {
 		line := scanner.Text()
 		if *nFlag {
 			lineNo++
-			fmt.Printf("    %v  %v\n", lineNo, line)
+			fmt.Printf("    %v  %s\n", lineNo, line)
 		} else {
 			fmt.Println(line)
 		}
