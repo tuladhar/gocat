@@ -14,3 +14,7 @@ The following command will print the contents of `src/main.go` with line number 
 <p align="center">
     <img width='600' src="https://media.giphy.com/media/nfPuCTHWn76xT5a0YN/giphy.gif">
 </p>
+
+## Author
+
+See [AUTHOR.md](AUTHOR.md)
