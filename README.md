@@ -5,7 +5,18 @@ Unix cat implementation in Go
 
 The following command will print the contents of `src/main.go` with line number to the standard output.
 
-![](images/usage.png)
+<p align="center">
+    <img width='400' src="images/usage.png">
+</p>
+
+A small HelpDoc for [gocat](https://github.com/tuladhar/gocat):
+```
+Usage: 
+    gocat FILE
+    
+Description:
+    Print FILE to Standard Output
+```
 
 Here's the sample usage as a GIF:
 
